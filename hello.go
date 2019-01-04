@@ -4,7 +4,7 @@ import "fmt"
 
 func variableZeroValue() {
 	var a, b int = 3, 4
-	var s string = "php菜鸟书院"
+	var s string = "php菜鸟书院" //测试
 	fmt.Println(a, b, s)
 }
 
@@ -16,5 +16,5 @@ func variableShort() {
 func main() {
 	fmt.Println("hello")
 	variableZeroValue()
-	variableShort() //定义
+	variableShort()
 }
