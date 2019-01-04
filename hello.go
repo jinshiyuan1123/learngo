@@ -16,5 +16,5 @@ func variableShort() {
 func main() {
 	fmt.Println("hello")
 	variableZeroValue()
-	variableShort()
+	variableShort() //定义
 }
